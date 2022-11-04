@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Chelsea is a football club based in London,playing the english premier league.
 Eden hazard is a chelsea legend.
 drogba was a good player.
 oscar was a chelsea player.
+=======
+Chelsea is a football club based in London,playing the english premier league.
+>>>>>>> d2812f1971858beb55e6360db00a7209aad6fb44
